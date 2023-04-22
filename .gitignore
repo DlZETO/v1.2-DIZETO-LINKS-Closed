@@ -12,6 +12,12 @@
 /.next/
 /out/
 
+#other
+/other/.next/
+/other/node_modules
+/other/public
+/other/other.zip
+
 # production
 /build
 
