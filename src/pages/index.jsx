@@ -34,11 +34,11 @@ export default function Links() {
           <Jumbotron />
           <div className="my-auto">
             <Button icon={<TbWorldWww />} hrf="https://www.dizeto.com/" value="DIZETO.COM" />
-            <Button icon={<IoLogoWhatsapp />} hrf="https://www.dizeto.com/" value="WHATSAPP" />
-            <Button icon={<AiFillInstagram />} hrf="https://www.dizeto.com/" value="INSTAGRAM" />
-            <Button icon={<BsYoutube />} hrf="https://www.dizeto.com/" value="YOUTUBE" />
-            <Button icon={<BsTwitter />} hrf="https://www.dizeto.com/" value="TWITTER" />
-            <Button icon={<BsFacebook />} hrf="https://www.dizeto.com/" value="FACEBOOK" />
+            <Button icon={<IoLogoWhatsapp />} hrf="https://wa.me/082119596508" value="WHATSAPP" />
+            <Button icon={<AiFillInstagram />} hrf="https://instagram.com/dizeto_id?igshid=YmMyMTA2M2Y=" value="INSTAGRAM" />
+            <Button icon={<BsYoutube />} hrf="https://www.youtube.com/@dizeto" value="YOUTUBE" />
+            <Button icon={<BsTwitter />} hrf="https://twitter.com/dizeto_id" value="TWITTER" />
+            <Button icon={<BsFacebook />} hrf="https://www.facebook.com/profile.php?id=100083806837197" value="FACEBOOK" />
           </div>
           <Footer />
         </div>
