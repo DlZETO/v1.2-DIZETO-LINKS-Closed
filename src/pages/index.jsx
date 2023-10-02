@@ -19,14 +19,14 @@ export default function Links() {
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
         <title>DIZETO | LINKS</title>
         <meta name="robots" content="index,follow" />
-        <meta name="author" content="DIZETO" />
+        <meta name="author" content="Gede Dewo Wahyu M.W" />
         <meta name="description" content="Dizeto is a vendor that offers photography, videography, talent, and music services." />
         {/* <!-- Open Graph --> */}
         <meta property="og:type" content="website" />
         <meta property="og:title" content="DIZETO | LINKS" />
         <meta property="og:description" content="Dizeto is a vendor that offers photography, videography, talent, and music services." />
-        <meta property="og:url" content="https://links.dizeto.com" />
-        <meta property="og:image" content="https://links.dizeto.com/favicon.ico" />
+        <meta property="og:url" content="https://dizeto.vercel.app" />
+        <meta property="og:image" content="https://dizeto.vercel.app/favicon.ico" />
         {/* <!-- End of Open Graph --> */}
       </Head>
       <section className="sm:flex sm:h-screen sm:w-screen sm:items-center sm:justify-center">
