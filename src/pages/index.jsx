@@ -33,8 +33,8 @@ export default function Links() {
         <div className="mx-auto flex h-screen w-screen flex-col justify-between sm:container sm:h-fit sm:max-w-[500px] sm:rounded-lg sm:border sm:border-gray-200 sm:bg-white sm:shadow-md sm:shadow-black/30 sm:dark:border-gray-700 sm:dark:bg-dark sm:dark:shadow-md sm:dark:shadow-white/30">
           <Jumbotron />
           <div className="my-auto">
-            <Button icon={<TbWorldWww />} hrf="https://www.dizeto.com/" value="DIZETO.COM" />
-            <Button icon={<IoLogoWhatsapp />} hrf="https://wa.me/082119596508" value="WHATSAPP" />
+            <Button icon={<TbWorldWww />} hrf="https://dizeto.vercel.app/" value="DIZETO.COM" />
+            <Button icon={<IoLogoWhatsapp />} hrf="" value="WHATSAPP" />
             <Button icon={<AiFillInstagram />} hrf="https://instagram.com/dizeto_id?igshid=YmMyMTA2M2Y=" value="INSTAGRAM" />
             <Button icon={<BsYoutube />} hrf="https://www.youtube.com/@dizeto" value="YOUTUBE" />
             <Button icon={<BsTwitter />} hrf="https://twitter.com/dizeto_id" value="TWITTER" />
